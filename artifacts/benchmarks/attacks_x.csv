@@ -1,0 +1,146 @@
+Incidents,Cause,Losses,Date,Chain,Attack Tx,Stages,ToVuls,Reference
+BankrollNetwork,Frontrun,113300,2025/7/10,ETH,0xcb495b4d16328d92d901eda65caadc5ab9b00323d55cadb71a2d186a0a69560f,Post,,https://x.com/TenArmorAlert/status/1943499612007932233
+ERC1967Proxy_54cd,Access Control,285700,2025/7/6,ETH,0xa57ec56af91ec70517ca71ca50101958d9c2ec9fdb61edcf35a9081c375725c2,Post,,https://x.com/TenArmorAlert/status/1941689712621576493
+SoilFinance,Logic Flaw,546000,2025/6/26,ETH,0x161a4e9bd777c81af4b2f2c4062281bf25ce460b9b04fbea83f09fba270c8b3b,Post,,https://x.com/TenArmorAlert/status/1938049652814725576
+MEV_b5cb,Access Control,2000000,2025/6/25,BSC,0x8c026c3939f7e2d0376d13e30859fa918a5a567348ca1329836df88bef30c73e,Dep,,https://x.com/TenArmorAlert/status/1937761064713941187
+AaveBoost,Access Control,14780,2025/6/12,ETH,0xc4ef3b5e39d862ffcb8ff591fbb587f89d9d4ab56aec70cfb15831782239c0ce,Post,,https://x.com/CertiKAlert/status/1933011428157563188
+Unverified_8490,Access Control,48300,2025/6/10,BSC,0x9191153c8523d97f3441a08fef1da5e4169d9c2983db9398364071daa33f59d1,Post,,https://x.com/TenArmorAlert/status/1932309011564781774
+Cork,Logic Flaw,12000000,2025/5/28,ETH,0x605e653fb580a19f26dfa0a6f1366fac053044ac5004e1b10e7901b058150c50,Dep,,"https://x.com/CertiKAlert/status/1927703769757647348, https://x.com/SlowMist_Team/status/1928100756156194955"
+Nexo,Logic Flaw,31535,2025/5/22,BSC,0x3278b9ee1391269a22742d6b4a1289426d1245220ce8994fe32837cd251598f1,Post,,https://x.com/SlowMist_Team/status/1925384887600828669
+IRYSAI,RugPull,69600,2025/5/21,BSC,0x8c637fc98ad84b922e6301c0b697167963eee53bbdc19665f5d122ae55234ca6; 0xe9a66bad8975f2a7b68c74992054c84d6d80ac4c543352e23bf23740b8858645,Post,1;0,https://x.com/TenArmorAlert/status/1925012844052975776
+NXPC,Logic Flaw,12000000,2025/5/15,BSC,0xfc3b21235e96c947d797ead76fd0a33f0b3ff6d03990d36f7b62e62eb6e8b96e,Post,,https://x.com/TenArmorAlert/status/1922904270145454208
+Block,RugPull,266300,2025/5/13,BSC,0x5f154c4f7d89db9faf2f3371cc715933f33c17129a663096a31cf906bbf9a8f3,Post,,https://x.com/TenArmorAlert/status/1922109519468933532
+X3,Logic Flaw,131400,2025/5/11,BSC,0xebdf5fa7dddfa4d35567c8b12dd065e9e3a3242bacbcfa1de97beb2537264102,Post,,https://x.com/TenArmorAlert/status/1921517872720801991
+LIFE,Logic Flaw,20000,2025/4/27,BSC,0x74b33c524df438fef28ceab4cf2a38238296d854f02055bf883fd66daf242236,Dep,,https://x.com/SlowMist_Team/status/1916405508833218995
+AVENT,Logic Flaw,7000,2025/4/27,ETH,0x59446b1f58457c83d18864bbfaa8930c9438da33017ad41f08397cf79a8c63e5,Dep,,https://x.com/SlowMist_Team/status/1916405508833218995
+TermLabs,Logic Flaw,1500000,2025/4/26,ETH,0xaa10cc076f27fcf7fc0b0a83ad170983e6791f5349d097ef4db0592a55d64048,Post,,https://x.com/TenArmorAlert/status/1916149115630604341
+ACB,Price Manipulation,84100,2025/4/24,BSC,0x144ff5661f5ce3391ba5b1c5e53366b61b8079d95d9fe8ca19ad87c6bbffc84f; 0xca29ad35c05979b0caaa86fa9cb133c8e795c26027efc528de33e2bff100ce5a,Post,,"https://x.com/TenArmorAlert/status/1915324379757502727, https://x.com/CertiKAlert/status/1915260482547835300"
+TH3R0AR,Logic Flaw,777000,2025/4/16,ETH,0xab2097bb3ce666493d0f76179f7206926adc8cec4ba16e88aed30c202d70c661,Post,,https://x.com/CertiKAlert/status/1912430535999189042
+KiloEx,Logic Flaw,7000000,2025/4/15,BSC,0x1aaf5d1dc3cd07feb5530fbd6aa09d48b02cbd232f78a40c6ce8e12c55927d03,Post,,https://x.com/TenArmorAlert/status/1911961167653978320
+LibertyUseCase,Price Manipulation,70000,2025/4/12,BSC,0xff77c9d0530fe6bbf6a5f24c5ddff466e0eaaa7630ecdd8cc6015c2eabf57881,Dep,,https://x.com/TenArmorAlert/status/1911040262157074447
+Unverified_623c,Access Control,28100,2025/4/12,BSC,0x9371eb4b0da7dedc95568d508a7fc97298a27bb44947c82dc4542fe3a4e5e3c9,Post,,https://x.com/TenArmorAlert/status/1911041324117032961
+Morpho,Frontrun/MEV,2600000,2025/4/11,ETH,0x5ce2cf51f0e6e099c33eabb84561cb01a1acb2c9fc26c5388cedec0e4292ce99,Post,,https://x.com/TenArmorAlert/status/1910550219206303933
+Laundromat,Logic Flaw,1564,2025/4/9,ETH,0x08ffb5f7ab6421720ab609b6ab0ff5622fba225ba351119c21ef92c78cb8302c,Dep,,https://x.com/TenArmorAlert/status/1909814943290884596
+MEV_4d17,Lack Input Check,180000,2025/4/8,ETH,0x1681c269e702ccaea4a3595037b7d1c2fa4551330451ef9c61cf1db0e63e7627,Post,,https://x.com/TenArmorAlert/status/1909465828178690454
+Mochi,Logic Flaw,49000,2025/4/6,ETH,0xeb3b1df5faec021a876cd0d13193a70fcd00468478deddda39387c18338bb60d,Post,,https://x.com/TenArmorAlert/status/1908906845328101719
+OPC,Logic Flaw,107500,2025/4/1,BSC,0x65a29faf44c5be567e9ea2aa419254263a1b8553799258d9e36769a06ceac109,Post,,https://x.com/TenArmorAlert/status/1907035768817594724
+MIN,Price Manipulation,21000,2025/3/28,BSC,0xf2288882d3f48d457669416e9acde80b66bffa7b2dd519fe51257b7f58e7dba9,Post,,https://x.com/SlowMist_Team/status/1905448377980256401
+Zoth,Access Control,8020000,2025/3/21,ETH,0x33bf669d125d11c432ac9b52b9d56161101c072fd8b0ac2aa390f5760fb50ca4,Post,1,https://x.com/SlowMist_Team/status/1903020756830974217
+DeHub,Access Control,5100,2025/3/17,BSC,0xa294e867ca061b74980d4915190c3e3fffcc8d3e8d71f54b6267e49bc21f2856,Post,,https://x.com/TenArmorAlert/status/1901645173576138843
+UNIV2,Logic Flaw,14145,2025/3/7,ETH,0x6c8aed8d0eab29416cd335038cd5ee68c5e27bfb001c9eac7fc14c7075ed4420,Dep,,https://x.com/CertiKAlert/status/1897973904653607330
+Unverified_e789,Logic Flaw,64000,2025/3/6,ETH,0xf5f0456240a72d6da2df263d594777cfc66826b3af87a06780164ff26f768f3a,Dep,,https://x.com/TenArmorAlert/status/1897575796526502204
+Zoth,Price Manipulation,286844,2025/3/3,ETH,0xc3f70057e261af554c6acf6a372389899f0c2d7d1ebd27311e39525dee88fb39,Post,,https://x.com/CertiKAlert/status/1896387358221860922
+INFINI,Logic Flaw,50000000,2025/2/24,ETH,0xecb31ff694c0e6c5e5b225c261854c0749ecf5d53c698fcda61f2d8e3db8f9fc,Post,1,"https://x.com/MistTrack_io/status/1893926049882239085, https://x.com/TenArmorAlert/status/1893898535172456898"
+Unverfied_35bc,Reentrancy,6700,2025/2/23,BSC,0xd7a61b07ca4dc5966d00b3cc99b03c6ab2cee688fa13b30bea08f5142023777d,Dep,,https://x.com/TenArmorAlert/status/1893333680417890648
+Unverified_57ae,Access Control,200000,2025/2/20,BSC,0x2e0f235300597d7fb407b94b5f2c6d654ecbbc51103b9d8623aa947e1c211efd,Post,,https://x.com/TenArmorAlert/status/1892582578722406634
+BOLT,Logic Flaw,14700,2025/2/18,BSC,0x8d1ed893295fb881d3f38e41c5f0857fc409069faac59f22a7e4251b002a9ed0,Post,,https://x.com/TenArmorAlert/status/1891862861791560108
+Unverified_d4f1,Access Control,15200,2025/2/15,BSC,0xc7fc7e066ec2d4ea659061b75308c9016c0efab329d1055c2a8d91cc11dc3868,Dep,,https://x.com/TenArmorAlert/status/1890776122918309932
+Unverified_effc,Access Control,54500,2025/2/14,ETH,0xf1119696cec427b2a145e15cb0c438c3120fb75cdca6fc948959e8e4c4ed65f3,Post,,https://x.com/TenArmorAlert/status/1890220459742097895
+Unverified_378c,Access Control,100900,2025/2/14,BSC,0x619e1cae53f1e7f903344e8c0d2e4b1c160583c7ce1fc10eeb34fa3f21b570b1,Post,,https://x.com/TenArmorAlert/status/1890236360826532215
+Unverified_9ad9,Access Control,10300,2025/2/9,BSC,0x5eb225ce9fb2c7a169e1736eb3b2bf2b6a5843839dd84cdcf6fe2ab0577ae21f,Post,,https://x.com/TenArmorAlert/status/1888507016173220277
+Unverified_2d70,Access Control,107900,2025/2/8,BSC,0x8501a9d34fc28bee21fd08505b3e4b1b0a4aec3a5496b508a290531d8eb25281,Post,,https://x.com/TenArmorAlert/status/1888063017163624929
+BankX,Reentrancy,43000,2025/2/8,BSC,0xe808330b8ddc2f7c6164743c210c9e1975de87c1949c6353d98f2d39e4dde182,Post,,https://x.com/TenArmorAlert/status/1888141223094821215
+GoldReserve,Logic Flaw,8500,2025/2/2,BSC,0x79c2e41b10462d374f21ecd4da048029cc71692e0c9ef275d4aad228e6f8afe0,Dep,,https://x.com/TenArmorAlert/status/1885731757204353371
+GAGAW,Typo,102400,2025/1/25,BSC,0x511a0a94f1f7cfa9298f432b677ca084d97962447e066d55244c44d05392c148,Post,,https://x.com/TenArmorAlert/status/1882974183715455120
+BasePricePool,Logic Flaw,16100,2025/1/21,BSC,0x4f7a403b8e8fda312ffcfb86384005dfd280a219076b03aeabe9caa425ee9a26,Dep,,https://x.com/TenArmorAlert/status/1881710739477446670
+ERC1967Proxy,Logic Flaw,100000,2025/1/17,BSC,0xf8a2de377612c2b4ada9160a6dd40bfc426e3ba0ce429e41d9e010f3cb5d5a9b,Post,,https://x.com/TenArmorAlert/status/1880079258267050334
+BIGO,Logic Flaw,18000,2025/1/14,BSC,0x8c9db55160a1484dd543e8a76e8a38eb58fccc63cdd5138cc46faf87e15bb9c9,Post,,https://x.com/TenArmorAlert/status/1879119229724864569
+PIKA,Price Manipulation,44700,2025/1/13,BSC,0x4a5ee6a58b4569bdc061df32571f5e36f3c966197a4d354c842b3dfad8981949,Post,,https://x.com/TenArmorAlert/status/1878780490594877752
+AlienBase,Access Control,38000,2025/1/10,ETH,0x2a32fd400186eb7b32d405be008ea74f9f7c820824c11ea22177e0d4ab804188,Dep,,https://x.com/TenArmorAlert/status/1877705016674250800
+BNPL,Lack Slippage Protection,14200,2025/1/4,ETH,0x1290fc4d6606367c3cdf96dbc28fffefa6755d02dec636366f5c0c095b835a00,Dep,,https://x.com/TenArmorAlert/status/1875372390420521196
+Robot,Rugpull,115800,2024/12/30,BSC,0xb1db0a561c316bb0530f06bf315d0078a33b16de1a4e3156d4b1a3c99fc5fe0f,Post,,https://x.com/TenArmorAlert/status/1873526411073360339
+FEG,Logic Flaw,1000000,2024/12/29,BSC,0x3de4f3584203d7545b252df73a3b7e75db691a2c12467de42028552ca3bbf04f,Post,,https://x.com/TenArmorAlert/status/1873254265294106791
+BFTG,Access Control,14700,2024/12/29,BSC,0x04e5ac87e57af454c75e4c4e4a24260e986167e89aedbdcf63188caf3c86026e,Dep,,https://x.com/TenArmorAlert/status/1873202227436806230
+DeXe,Logic Flaw,650000,2024/12/25,BSC,0x84a0b565ac07898d99d2d1a0cc53b756132d067b269dc09f86ffc386b3b55410,Post,,https://x.com/TenArmorAlert/status/1871864435381514478
+ZSD,Logic Flaw,53100,2024/12/24,BSC,0xffe2882ee41f2258faf77a4dad63937026c7a11e4277df7f305d5bafe482ca05,Post,,https://x.com/TenArmorAlert/status/1871511045342470327
+NANI,Logic Flaw,26800,2024/12/23,ETH,0x17de3ae6c85a5d34ee5a83499c6f5c5c8096e961132a6693441a4137d398dd5b,Post,,https://x.com/TenArmorAlert/status/1871168914006196244
+GamePad,Reentrancy,2000000,2024/12/17,BSC,0x5c21611ae260cf795c304cf9fcf777450acf29916d162964b7ec61c37632a07e,Post,,https://x.com/TenArmorAlert/status/1868997680153723380
+LiquidityHolder,Lack Slippage Protection,14300,2024/12/14,ETH,0xfd9236fc5c4165dc9b01437de24955842d267220c5c0b21f7969ced39c7781fb,Post,,https://x.com/TenArmorAlert/status/1867752635832709589
+Mintable,Logic Flaw,19400,2024/12/7,ETH,0x398275fab4a60c8af8e73c36c4e102918534ee66d3bf3e4b768f93a9565c31d0,Post,,https://x.com/TenArmorAlert/status/1865318447925583893
+BoringCrypto,Logic Flaw,48000,2024/12/7,ETH,0x95be4d58838bfffaf5e56600e0ba5bdb8fccb4d2231633962b6c7f0d88994424,Post,,https://x.com/TenArmorAlert/status/1865261168933085482
+FEGToken,Logic Flaw,5500,2024/12/6,BSC,0x58e848ff3fed08e73dbc76d59f52846b606595a5909dcf2d5266d5475a8b0095,Post,,https://x.com/TenArmorAlert/status/1864851907740668062
+Vestra,Access Control,478400,2024/12/4,ETH,0xa0dcf9b177702c58c5d0353aff2caeab12589bce204fb2d0e62ccbf5717f1798,Post,,https://x.com/TenArmorAlert/status/1864326816598556765
+BYC,Access Control,102400,2024/12/3,BSC,0x177b87bd009e3b3aebb11cf2b88efc217d14fc1554a4675ee749eeb527d201ff,Dep,,https://x.com/TenArmorAlert/status/1863740268140191759
+GBKStaking,Logic Flaw,84000,2024/12/1,BSC,0xc4ae1df68127bf51d6806dea01792a3b90a753e1c363e80f729e174d671b7bb3,Post,,https://x.com/TenArmorAlert/status/1863367545647964312
+Unverified_a0f9,Lack Input Validation,56561,2024/12/1,ETH,0xe5ba842aca472800ee3efcb50322e15e8ac45d3a5f3fd0b2a98984807c1bbd6f,Post,,https://x.com/TenArmorAlert/status/1863043149645418600
+Unverified_97f0,Logic Flaw,368821,2024/11/30,ETH,0xe01619258ece728b4e6ba14e51e6d81a2611bd58c910d86a9334bdd7165a3080,Post,,https://x.com/TenArmorAlert/status/1862668165219573982
+SDR,Logic Flaw,5300,2024/11/29,BSC,0xb0f0affbcbfd901dfa705fd101d44da8477faa64a1a6c2c50d0d88762d768b22,Post,,https://x.com/TenArmorAlert/status/1862314011859329399
+NFTG,Logic Flaw,10000,2024/11/26,BSC,0xbd330fd17d0f825042474843a223547132a49abb0746a7e762a0b15cf4bd28f6,Post,,https://x.com/TenArmorAlert/status/1861430745572745245
+Proxy_b7e1,Logic Flaw,8500,2024/11/25,BSC,0x864d33d006e5c39c9ee8b35be5ae05a2013e556be3e078e2881b0cc6281bb265,Dep,,https://x.com/TenArmorAlert/status/1860867560885150050
+Unverified_ba12,Logic Flaw,15903,2024/11/24,ETH,0x114241fab8b15b9dd3c17aca7259ed77941014f53c1355a3a38beb58b1097c64,Dep,1,https://x.com/TenArmorAlert/status/1860715399186448889
+MainnetSettler,Arbitray Calls,54169,2024/11/21,ETH,0xfab5912f858b3768b7b7d312abcc02b64af7b1e1b62c4f29a2c1a2d1568e9fa2,Dep,,https://x.com/TenArmorAlert/status/1859416451473604902
+BSCGem,Logic Flaw,17300,2024/11/20,BSC,0x24f15810c37bbc94e95c49449f5570b21aea92fead1a1842570ff40c0844a498,Post,,https://x.com/TenArmorAlert/status/1859256130414981525
+Eclipseum,Logic Flaw,24000,2024/11/18,ETH,0xfc632dc7db623e1a773dff4c6e33d85124aebf621e336a8515ea653a0a9abda5,Post,1,https://x.com/TenArmorAlert/status/1858337566468301167
+ZSD,Logic Flaw,14000,2024/11/16,BSC,0xd287e072874fe7448b85489addc25cfb522338efa12704d2ac4d1114464ad4d7,Post,,https://x.com/TenArmorAlert/status/1857613799148466586
+Unverified_7f6a,Logic Flaw,8000,2024/11/14,ETH,0xd4bda03e0137ecee9e748ffff71e0ce3591872e94370e264bb8a4a07ad30d09b,Post,,https://x.com/TenArmorAlert/status/1857027139771478304
+Unverified_0cff,Sandwich,50000,2024/11/14,BSC,0xa49a2d89c3ac1cc28a72cadfc615853395f4164203a304ce84d654935c4c1b7a,Post,,https://x.com/TenArmorAlert/status/1856947472394064119
+BGM,Logic Flaw,458100,2024/11/10,BSC,"0xbf3e8aebad016e34c08f0e9c0bcdfb456e64dd93323a5c7f7663d5a80cd92fa6, 0xc7c65abb41394e8d1d481e2e3568f5ec32c8251c9f4b5be21e85e8a810b41fab, 0xc8d3bec5bdb66e31a8960e8d8cc9bf09e47a71d00c8da6de05e583991f9711e0,0x8580825008800b9e13266f40b41a838a521e4d0bb4abc1cb78684253b7bc9fd1",Post,,https://x.com/TenArmorAlert/status/1855652578480275758
+X319,Access Control,12900,2024/11/9,BSC,0x679028cb0a5af35f57cbea120ec668a5caf72d74fcc6972adc7c75ef6c9a9092,Dep,,https://x.com/TenArmorAlert/status/1855263208124416377
+DOPC,Logic Flaw,39900,2024/11/9,BSC,0x2a4f67ee2f5b232d3c6f9251c996bdc27de3f68dcb821793269908e28e69f2b2,Post,,https://x.com/TenArmorAlert/status/1855079147728781563
+VRUG,RugPull,8400,2024/11/8,ETH,0x5e151627dc06ec4f2db5be2f48248f320ad3450aba42b1bbd00131bcbaa4f0ae,Post,1,https://x.com/TenArmorAlert/status/1854702463737380958
+DMA,Logic Flaw,16900,2024/11/8,BSC,"0x2306b6a748b7809275dc167ace0143b8e54ebad22fc07253bd0fa0c38bdd1d70,0x559f7ff94f80c8b4acdba27da3aba5d3477fab42d45856799bb355559856a4e2, 0xe961ab37dd3e54470038dd1b95fc4a1cf6086f6ffca61af0e035e7b52b8e9758",Post,,https://x.com/TenArmorAlert/status/1854724785579999574
+MarginParent,Logic Flaw,9400,2024/11/8,ETH,0x4cabe6bed8ad05d1d3595f2c767e76b366e06eb6864de4e7ba24d8da38ba1ae0,Post,,https://x.com/TenArmorAlert/status/1854910021609595214
+Pink,Lack Slippage Protection,12300,2024/11/7,BSC,0xc9687036c6b4121dddfb5b20e4b6dd2480607aa0b73c1272aa68fab11b2df9ef,Dep,,https://x.com/TenArmorAlert/status/1854337509964349597
+ChiSale,Logic Flaw,16300,2024/11/7,ETH,0x586a2a4368a1a45489a8a9b4273509b524b672c33e6c544d2682771b44f05e87,Post,,https://x.com/TenArmorAlert/status/1854357930382156107
+CoW,Access Control,59000,2024/11/7,ETH,0x2fc9f2fd393db2273abb9b0451f9a4830aa2ebd5490d453f1a06a8e9e5edc4f9,Post,,https://x.com/TenArmorAlert/status/1854538807854649791
+EulerSwapper,Access Control,5700,2024/11/6,ETH,0xd46350993431658ca87229961898acd384fe06da4297e45d9bfcb72db1509a84,Post,,https://x.com/TenArmorAlert/status/1853991236992143391
+Coin31,Logic Flaw,25800,2024/11/2,BSC,0x28f8e92e64595edf2680a40c5ca1dcfddf2a74fde6f2b51efc09d31edef09d0f,Post,,https://x.com/TenArmorAlert/status/1852647914650447922
+EverGrow,Sandwich Attack,12300,2024/10/31,BSC,0xd4e86bd63a5542424bdfd482974aeb13823a0316cf56818c2bf902456d91d093,Post,,https://x.com/TenArmorAlert/status/1851955425383735664
+BUBAI,RugPull,13100,2024/10/30,ETH,0x1b4730e715286862042def956d5aaa6a53203ee02b97ea913de73fa462e48f90,Post,,https://x.com/TenArmorAlert/status/1851445795918118927
+UNIRISE,Logic Flaw,5600,2024/10/30,BSC,0x7f5148fce482cfe4a70e351551b9470f3dd1724dab17cff4780b9f09ad7b38dc,Post,,https://x.com/TenArmorAlert/status/1851440450433138925
+UNITAO,Sandwich Attack,7200,2024/10/27,ETH,0x0039d4db8004d075e1c0aed208079a833c001b8b1b094a00c2a74ee976614ef9,Post,,https://x.com/TenArmorAlert/status/1850368646763450544
+DCF,Access Control,89700,2024/10/26,BSC,0xff1607a129b2ff2f5f6df07c915b71219ed416c6d0a3be7e8f24c6c5f40adfd1,Post,1,https://x.com/TenArmorAlert/status/1850010234535936457
+SAKURA,RugPull,4527,2024/10/24,ETH,0x9438ea5bc1732e76e54db1b81303f6346873cb81b7a207d936988d2010f2f221,Post,,https://x.com/TenArmorAlert/status/1849293006907867495
+BECCKY,Logic Flaw,21700,2024/10/23,ETH,0x6d9795e21450c81598e4c5f71a04b5f110be22ab5897c55a64b9980f4dcba778,Post,,https://x.com/TenArmorAlert/status/1849013805298377046
+DANK,RugPull,14700,2024/10/23,ETH,0x6b37f89e83822ff54a93e78f16d92d84948d0edfa2f76e417396f01b9eddfa3e,Post,,https://x.com/TenArmorAlert/status/1848996885278953721
+MEEKOO,RugPull,64700,2024/10/23,ETH,0x0252f6bab4c80b16a4fdf89662e130cb3d0c3f8c95f6c1fa7a22f35aa62d2e14,Post,,https://x.com/TenArmorAlert/status/1848889630206398937
+FIGHT,Logic Flaw,4300,2024/10/21,BSC,0x11633b395426993e83c70126fa88418827a20d7c8a41c5c147f153889496d9f8,Post,,https://x.com/TenArmorAlert/status/1848248000105353419
+PYTY,Access Control,7600,2024/10/21,ETH,0xfa2e80eb55f19df45e28cde71b6ddca61645667fd4743dc88cdf9102f8f50857,Post,,https://x.com/TenArmorAlert/status/1848188923627159671
+99Token,Access Control,24700,2024/10/17,ETH,0x7879fe4c3cb11e7ef5dd53c4559ce744f118758ede9e824c1604af2961b7ce0c,Post,,https://x.com/TenArmorAlert/status/1846752179086094432
+OripTokenon,Price Manipulation,8500,2024/10/16,BSC,0xedda751317132cde7d69d95794dfa183fa636b914181c7b061b6d73f0bf3e4c3,Post,,https://x.com/TenArmorAlert/status/1846431950061687047
+LONGMAO,RugPull,30000,2024/10/16,ETH,0x380db19ccacdcf813922dc30791d2a42a66eba927ec7d90473938c45056f5b42,Post,,https://x.com/TenArmorAlert/status/1846402755503837295
+Unverified_28a8,Access Control,25564,2024/10/16,ETH,0xb757dbbd321fc5950cefc8682185b1eb554039ef337d1c5fed2bfb660d712050,Post,,https://x.com/TenArmorAlert/status/1846566891135090760
+VOTE,Access Control,9500,2024/10/9,ETH,0xd656600ba0a7e90a4ee0f5d5fa34c70761c39f735f139e409e89f87285524908,Post,,https://x.com/TenArmorAlert/status/1843830777865523649
+BnbSettler,Access Control,10000,2024/10/8,BSC,0x05e70058b670fcb2db59f378e702f683bbe0fa72e445e829eca8c341a82dfd8b,Post,,https://x.com/TenArmorAlert/status/1843632599169900558
+EGA,Access Control,270700,2024/10/6,BSC,0xece4a4ac46660618ecee43826fc6f89fe4beaef87ca5e5786f763892b48bc999,Post,,https://x.com/TenArmorAlert/status/1842745461570146348
+P719,Logic Flaw,84841,2024/10/6,BSC,0x0b45e23c6af507caa78b8fe3783c2f6c8486cb18c7a0324afc268ab1797260ce,Dep,,https://x.com/TenArmorAlert/status/1842965491889197209
+Unverified_17e5,Lack Slippage Protection,7400,2024/10/5,ETH,0xf9ecb4db1f3d8c60ee947f5243e5d2f99d87b96acd275ce7f9d4842ffa925de2,Post,,https://x.com/TenArmorAlert/status/1842387508598124645
+Unverified_22cd,Lack Slippage Protection,9600,2024/10/5,BSC,0xc1418fc3f6c043125fb2b5f73b36e27a4de867413ce68fe2f28cdd09e3bd8b41,Post,,https://x.com/TenArmorAlert/status/1842586249519091984
+StakingPool,Reentrancy,5800,2024/9/30,BSC,0x94cd8b88969bcf1ca03bb6db0df465e46cfa8dc8dded25e0497c3473e888f573,Post,,https://x.com/TenArmorAlert/status/1840686675552579693
+BHIC,Access Control,20000,2024/9/29,BSC,0x804a2f82ba6af7699911d86b22742e5ba29997cc392a35e2f5895942e033e907,Post,,https://x.com/TenArmorAlert/status/1840212321920266722
+UPiT,Logic Flaw,4500,2024/9/26,BSC,0xb2719caf17efd91223efddbdd7ed3aee99023a9c135bade92a65c5d57449c6c5,Post,,https://x.com/TenArmorAlert/status/1839235268009931137
+HANA,Logic Flaw,283,2024/9/25,ETH,0xe8cee3450545a865b4a8fffd93938ae93429574dc8e01b02bc6a02f2f4490e4e,Post,,https://x.com/TenArmorAlert/status/1838963740731203737
+Unverified_ff24,Logic Flaw,140000,2024/9/25,BSC,0xa86a0e3b7de28fd5d5698230f5cff8e0ad6785f438e6327c4480fd8fe23cc07c,Post,,https://x.com/TenArmorAlert/status/1838805018109264031
+PESTO,Sandwich Attack,1400,2024/9/23,ETH,0x3d5b4a0d560e8dd750239b578e2b85921b523835b644714dc239a2db70cf067c,Post,,https://x.com/TenArmorAlert/status/1838225968009527652
+MOON,Rugpull,28800,2024/9/22,BSC,0xf6e3163b98753b580da6f243de2c44dcd993c20ff6597c32cb974fcfce47d96d,Post,,https://x.com/TenArmorAlert/status/1837874127824359686
+DOGGO,Logic Flaw,7000,2024/9/21,ETH,0x9e074d70e4f9022cba33c1417a6f6338d8248b67d6141c9a32913ca567d0efca,Post,,https://x.com/TenArmorAlert/status/1837358462076080521
+NEC,Logic Flaw,37000,2024/9/20,BSC,0xff40a159b9545dbe21059a770f1147858003000bd847ceff7ccd7d8694815d5a,Post,,https://x.com/TenArmorAlert/status/1836944604723396970
+Unverified_3c0b,Lack Input Checks,1600,2024/9/19,BSC,0x1f9fdc382de20290362189fe725c98f833ce5a53ec134da13593fe38ef3940be,Dep,,https://x.com/TenArmorAlert/status/1836610104747315331
+TiFi,Frontrun,9000,2024/9/18,BSC,0xa90ccbb25f3a60f8089dab24e852af69dbbd21f619453baa1e8a2663a6a5a105,Post,,https://x.com/TenArmorAlert/status/1836321839574138967
+Unverified_766a,Access Control,4200,2024/9/18,BSC,0x73d459ad3c926f5247a2018197d13b2a0acbc1fc46e1e54525c210a46130a56b,Post,,https://x.com/TenArmorAlert/status/1836339028616188321
+GPC,Access Control,5600,2024/9/16,BSC,0xcb6d32a6b721cc10b1ad213cf63fbcb48bd8ef03f1870e1b4e6bd94156e66e7f,Post,,https://x.com/TenArmorAlert/status/1835508524719472782
+CATi,RugPull,36531,2024/9/16,BSC,0x4ec3705cf249ed8d8441c991ad89ff99e0243a21ba57c96abf398ba677c58604,Post,,https://x.com/TenArmorAlert/status/1835694213767516510
+MSS,Sandwith Attack,45000,2024/9/16,BSC,0xd00eee004bdb21c5cf5ff1aa2f7a140704c96b758fadbe12a65c52e643e22a43,Post,,https://x.com/TenArmorAlert/status/1835549375810183386
+WXETA,Logic Flaw,110000,2024/9/16,BSC,0x614da880bd46e98131accd9a83917abf3d56dac94caf13ae98eeff504eea3704,Dep,,https://x.com/TenArmorAlert/status/1835494807495659645
+XXM,Rugpull,300000,2024/9/14,BSC,0x5e59962a8d97e98d134acdb028c0795814d47ca09a95d1df806fb29838637a1f,Post,,https://x.com/TenArmorAlert/status/1834798284206227721
+HOOD,RugPull,40972,2024/9/13,BSC,0xeb8976f926b6f2ca8fa40437c859c2ba37e61c7bc0f3bdf9dc44c6387ca49096,Post,,https://x.com/TenArmorAlert/status/1834536351766831141
+INUMI,Access Control,4700,2024/9/13,ETH,0x45ce017f5a295f387eafb596b4bcb1192dd1c302ccb9d097d7fa2cdf3008b139,Post,,https://x.com/TenArmorAlert/status/1834503422655263099
+INUMI2,Access Control,11725,2024/9/13,ETH,0xbeef352f716973043236f73dd5104b9d905fd04b7fc58d9958ac5462e7e3dbc1,Post,,https://x.com/TenArmorAlert/status/1834504921561100606
+Unverified_03f9,Access Control,1700,2024/9/13,ETH,0x1a3e9eb5e00f39e84f90ca23bd851aa194b1e7a90003e3f6b9b17bbb66dabbb9,Post,,https://x.com/TenArmorAlert/status/1834488796953673862
+Unverified_5697,Arbitrary Calls,12000,2024/9/13,ETH,0x3f0dc68dc89fce3250b9d2de2611384b8af258e83f7a711f666917c5590d13d2,Post,,https://x.com/TenArmorAlert/status/1834432197375533433
+AIRBTC,Access Control,6800,2024/9/11,BSC,0x00e4bbc86369d67e21b1910c4f9178c8257ce96192039a7839bd4d3593e1cd27,Dep,,https://x.com/TenArmorAlert/status/1833825098962550802
+Neiro,Lack Slippage Protection,24000,2024/9/8,ETH,0xee4f22b0a332dbddeb94d0f48721f9ddf93196a1390d1dd4b36505def6124d63,Post,,https://x.com/TenArmorAlert/status/1832792378945720546
+REKT,Logic Flaw,1600,2024/9/6,ETH,0x536e0d8058dd25ab298a09f7c699e55c4c1e0316cba63ae1287b23ca43ea8b9e,Post,,https://x.com/TenArmorAlert/status/1831887938973728826
+Unverified_a89f,Access Control,1500,2024/9/5,ETH,0x83c71a83656b0fecfa860e76a9becf738930b3f1b2510c7d0339ab585090a82d,Post,,https://x.com/TenArmorAlert/status/1831637553415610877
+PLN,Access Control,400000,2024/9/5,ETH,0xcc36283cee837a8a0d4af0357d1957dc561913e44ad293ea9da8acf15d874ed5,Post,,https://x.com/TenArmorAlert/status/1831525062253654300
+Unverified_16d0,Access Control,329,2024/9/5,ETH,0xf5f251fd4ed77e24d803d8241e2e852f0781a145891411dd4eb45306eacf12a8,Post,,https://x.com/TenArmorAlert/status/1831511554619273630
+BURN,Logic Flaw,1300,2024/9/3,ETH,0x19243bb3481ffc79949eff2b13e991f30c1277125ce6af57e43af9c0301d0c14,Post,,https://x.com/TenArmorAlert/status/1830873981110624418
+Unverified_134f,Access Control,528,2024/9/2,BSC,0x65c184ee5f2525a83cce98ab2c48ef055a991b97647d66ebb604de78f3138349,Post,,https://x.com/TenArmorAlert/status/1830621208137941290
+TabooPresale,Price Manipulation,1614,2024/9/1,BSC,0xebeb69dfc277ea1bd9ef25dc17a3db203019de075778dc2acba1f57b900ed1a9,Post,,https://x.com/TenArmorAlert/status/1830198463814107267
+Unverified_667d,Access Control,10000,2024/8/29,BSC,0x56d3ed5f635b009e19d693e432479323b23b3eb368cf04e161adbc672a15898e,Dep,,https://x.com/TenArmorAlert/status/1828983569278231038
+KABOSU,Sandwich Attack,2500,2024/8/25,ETH,0x0af85da17704bcf0dfe1208475170d577060c45463c40b6e461ec51d46e73842,Post,,https://x.com/TenArmorAlert/status/1827637854714880426
+MEV_1949,Logic Flaw,1100000,2024/8/22,BSC,0x756b12ba757fb11c841e6cf73dbb525eccb61a4e8fa036452dceb62e04df9cdf,Post,1,https://x.com/TenArmorAlert/status/1826491035255746978
+MUSKITO,Access Control,8000,2024/8/21,ETH,0xd57e3757494457603fc74461c140b13bbb82bf6e8d4db5e7a733cad81544c68b,Dep,,https://x.com/TenArmorAlert/status/1826149844773384566
+COCO,Logic Flaw,2160,2024/8/21,BSC,0x7b743f0fa0ffc6542bc4132405f6c986a00187b6a8b23613ab98c8bcfe9fd875,Post,,https://x.com/TenArmorAlert/status/1826101724278579639
+Ronin,Logic Flaw,9812893,2024/8/6,ETH,0x2619570088683e6cc3a38d93c3d98899e5783864e15525d5f5810c11189ba6cb,Post,,https://x.com/SlowMist_Team/status/1820783952145355247
+Dolomite,Logic Flaw,1800000,2024/3/20,ETH,0x8756db0d30f8c5ba0eee75c4d4337ee03df2b240d5989dee353a937327e642bd,Post,,https://x.com/AmirOrmu/status/1770493438183571470
